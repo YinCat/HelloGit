@@ -1,6 +1,6 @@
 package com.grts.hello;
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("hello world! EDIT!");
+		System.out.println("hello world!ÐÞ¸Ä");
 	}
 }
